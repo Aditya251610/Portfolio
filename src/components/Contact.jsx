@@ -6,7 +6,7 @@ const Contact = () => {
       If you have a project in mind or need assistance with your development needs, feel free to get in touch with me.
       Whether you need a sleek and responsive frontend, a robust backend solution, or a complete full stack development, I'm here to help.
       </p>
-      <button className="bg-black rounded-xl p-4 text-[whitesmoke]"><a href="mailto:aditya.dev@gmail.com">Get In Touch</a></button>
+      <button className="bg-black rounded-xl p-4 text-[whitesmoke]"><a href="mailto:aditya.dev2516@gmail.com">Get In Touch</a></button>
     </div>
   )
 }
